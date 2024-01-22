@@ -1,0 +1,19 @@
+Algoritmo notas
+	
+	definir notass, n, suma, promedio Como Real
+	suma = 0
+	Escribir "Ingrese la cantidad de notas"
+	Leer n
+	
+	Para i<-1 Hasta n Con Paso 1 Hacer
+		Escribir "Ingrese nota ", i, ":"
+		Leer notass
+		suma = suma + notass
+	Fin Para
+	promedio = suma/n
+	
+	Escribir "El promedio es: ", promedio
+	
+	
+	
+FinAlgoritmo
