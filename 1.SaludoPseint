@@ -1,0 +1,14 @@
+Algoritmo Saludo
+	
+	Definir sal Como Caracter
+	Definir nombre Como Caracter
+	Escribir "Ingrese un nombre"
+	Leer nombre
+	
+	sal = "Hola "+nombre
+	
+	Escribir  sal
+	
+	
+	
+FinAlgoritmo
