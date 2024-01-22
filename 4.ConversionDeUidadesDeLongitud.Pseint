@@ -1,0 +1,7 @@
+Algoritmo ConversionDeUidadesDeLongitud
+	Definir lon Como Entero
+	Escribir 'Ingrese una longitud'
+	Leer lon
+	pulgada <- lon/2.54
+	Escribir 'La longitud ', lon, ' Es igual a cm: ', pulgada, ' in'
+FinAlgoritmo
